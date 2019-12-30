@@ -1,1 +1,1 @@
-# gRPC-ReservationApp
+# gRPC- Simple Reservation Example
